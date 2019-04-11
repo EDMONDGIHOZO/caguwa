@@ -28,9 +28,9 @@ i can't say that there is no way to buy and sell second hand things but they are
 
 # Requirements
 
-    - composer  from [here] (https://getcomposer.org/)
-    - laravel   from [laravel0 (https://laravel.com/)
-    - any Database can work (mysql or postgres)
+- composer  from [here] (https://getcomposer.org/)
+- laravel   from [laravel] (https://laravel.com/)
+- any Database can work (mysql or postgres)
 
 # Installation 
     --- Extract the project's data into the folder that your server will understand (htdocs for windows),
