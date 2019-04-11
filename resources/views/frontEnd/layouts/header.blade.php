@@ -40,11 +40,13 @@
                         <a href="{{url('/')}}"><img src="{{asset('img/logo.png')}}" alt="" /></a>
                     </div>
                 </div>
-                <div class="col-sm-6 pull-right" id="searchbar">
+                <form action="" method="GET">
+                    <div class="col-sm-6 pull-right" id="searchbar">
                     <div class="search_box">
                         <input type="text" placeholder="Search" />
                     </div>
                 </div>
+                </form>
 
             </div>
         </div>

@@ -24,7 +24,6 @@
 
 <body>
     @include ('backEnd.layouts.admin_header')
-
     @include('backEnd.layouts.nav')
 
     <!--main-container-part-->

@@ -78,4 +78,8 @@ Route::group(['prefix'=>'admin','middleware'=>['auth','admin']],function (){
     Route::resource('/sellers', 'SellersController');
     Route::get('delete-seller/{id}', 'SellersController@destroy');
 ///
+    //// search result page ////
+    Route::get ('search/result', function (){
+        echo "testing route";
+    });
 });

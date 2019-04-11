@@ -1,7 +1,6 @@
 <!--sidebar-menu-->
 <div id="sidebar">
     <ul>
-
         <li{{$menu_active==1? ' class=active':''}}><a href="{{url('/admin')}}"><i class="icon icon-home"></i>
                 <span>Dashboard</span></a> </li>
             <li class="submenu {{$menu_active==2? ' active':''}}"> <a href="#"><i class="icon icon-th-list"></i>
@@ -48,3 +47,4 @@
     </ul>
 </div>
 <!--sidebar-menu-->
+<!-- dashboard -->
