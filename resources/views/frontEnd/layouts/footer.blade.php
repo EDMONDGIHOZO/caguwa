@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="companyinfo">
-                        <h2>BUY ON ME </h2>
+                        <h2>CAGUWA </h2>
                         <p> Have you Ever had some products at home which are still useful but you no longer use them?
                             i think the Answer is Yes,
                             so imagine you are broke and need to sell them., the truth is that i Kigali you will not be
@@ -64,7 +64,7 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
-                <p class="pull-left">Copyright © 2019 BuyOnMe Inc. All rights reserved.</p>
+                <p class="pull-left">Copyright © 2019  C A G U W A Inc . All rights reserved.</p>
             </div>
         </div>
     </div>
