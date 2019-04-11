@@ -28,8 +28,8 @@ i can't say that there is no way to buy and sell second hand things but they are
 
 # Requirements
 
-    - composer  from https://getcomposer.org/
-    - laravel   from https://laravel.com/
+    - composer  from [here] (https://getcomposer.org/)
+    - laravel   from [laravel0 (https://laravel.com/)
     - any Database can work (mysql or postgres)
 
 # Installation 
@@ -48,10 +48,9 @@ i can't say that there is no way to buy and sell second hand things but they are
     if you are new to laravel,
     -- there is a public folder , that folder is like a root of the website ,its where you can find the images,css files, javascripts and index of the website (i hope you know what index is ,lol)
 
-    -- there is alse an other important folder called resources , its where all the projects control files are , 
-
-
-    for more information about how Laravel directory are structure please read https://www.w3schools.in/laravel-tutorial/application-directory-structure/
+    -- there is alse an other important folder called resources , its where the projects control files are located.
+for more information about how Laravel directory are structure please
+[read](https://www.w3schools.in/laravel-tutorial/application-directory-structure/)
 
 
 # author
