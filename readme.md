@@ -1,18 +1,22 @@
 <p align="center"><img src="http://caguwa.herokuapp.com/img/logo.png"></p>
 
 
-## About C A G U W A 
+## ABOUT C A G U W A 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+Caguwa is a web platform in Kigali which helps people to buy and sell their used products.
+as we know human being like the changes, so every thing we use in our daily life we like them when they are still new and use them as we want , but sometimes we need to change the property even when there is nothing wrong with it especially when we no longer use it.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+but to other side of life they are people out there who will be happy to use that property that you used,
+yeah they are because we are all not on the same financial level!
+so in this town of kigali i've seen how the second hand products are most wanted especially how cheap they are and said why not helping my community to access them in a digital way!
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
+i can't say that there is no way to buy and sell second hand things but they are not perfect , and i think this platform can help a lot on side of trust and security!
 
 
+# FEATURES
+    - People can view and order the chosen product
+    - The web administration is the only one which manage those products on the site
+    - Every user can request to become a seller
+    
+
+This Website is still under development!
