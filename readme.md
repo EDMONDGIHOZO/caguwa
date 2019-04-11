@@ -28,8 +28,8 @@ i can't say that there is no way to buy and sell second hand things but they are
 
 # Requirements
 
-- composer  from [here] (https://getcomposer.org/)
-- laravel   from [laravel] (https://laravel.com/)
+- composer  from  (https://getcomposer.org/)
+- laravel   from  (https://laravel.com/)
 - any Database can work (mysql or postgres)
 
 # Installation 
