@@ -26,7 +26,37 @@ i can't say that there is no way to buy and sell second hand things but they are
     * CSS 
     * POSTGRES
 
-#author
+# Requirements
+
+    - composer  from https://getcomposer.org/
+    - laravel   from https://laravel.com/
+    - any Database can work (mysql or postgres)
+
+# Installation 
+    --- Extract the project's data into the folder that your server will understand (htdocs for windows),
+    --- open terminal or CMD and type #composer update -no--scrits (this will make the project for usage),
+    --- in terminal again type #php artisan migrate:fresh (this will make reset the database for fresh usage)
+    --- again go to your database control page (phpAdmin or pgadmin ) and create the new database
+    --- go to .env file in project root and modify the database data by adding yours,
+    --- then migrate 
+    --- and booom type php artisan serve
+    soooo do whatever you want! :)
+
+# Project Map
+
+    this project includes the backend and frontend files
+    if you are new to laravel,
+    -- there is a public folder , that folder is like a root of the website ,its where you can find the images,css files, javascripts and index of the website (i hope you know what index is ,lol)
+
+    -- there is alse an other important folder called resources , its where all the projects control files are , 
+
+
+    for more information about how Laravel directory are structure please read https://www.w3schools.in/laravel-tutorial/application-directory-structure/
+
+
+# author
 developer's email : <a href="mailto:gihozoedmond@gmail.com"></a>
 
 This Website is still under development!
+
+
