@@ -17,25 +17,39 @@
                 <h1>New Sellers Requests </h1>
             </div>
             <div class="card-content">
-                <table width="100%" border="1">
-                    <tr>
-                        <th> Name </th>
-                        <th> Location </th>
-                        <th> Phone Number </th>
-                        <th> Details </th>
-                        <th> ID Card Number </th>
-                        <th> Actions </th>
-                    </tr>
-                    <tr>
-                        <td> Name </td>
-                        <td> Location </td>
-                        <td> Phone Number </td>
-                        <td> Details </td>
-                        <td> ID Card Number </td>
-                        <td> <button class="btn btn-primary"> View </button>
-                        </td>
-                    </tr>
-                </table>
+                No Seller
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">
+                <h1>Orders </h1>
+            </div>
+            <div class="card-content">
+                not yet implemented
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">
+                <h1>Sold Products </h1>
+            </div>
+            <div class="card-content">
+                not yet implemented
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">
+                <h1>In store </h1>
+            </div>
+            <div class="card-content">
+                not yet implemented
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-title">
+                <h1>Customer Care </h1>
+            </div>
+            <div class="card-content">
+                not New Message
             </div>
         </div>
     </div>
