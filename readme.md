@@ -19,4 +19,14 @@ i can't say that there is no way to buy and sell second hand things but they are
     - Every user can request to become a seller
     
 
+# TECHNOLOGIES USED 
+    * lARAVEL 
+    * HTML
+    * JAVASCRIPT
+    * CSS 
+    * POSTGRES
+
+#author
+developer's email : <a href="mailto:gihozoedmond@gmail.com"></a>
+
 This Website is still under development!
