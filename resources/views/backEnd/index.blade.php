@@ -33,7 +33,7 @@
                 <h1>Sold Products </h1>
             </div>
             <div class="card-content">
-                not yet implemented
+                no Product sold
             </div>
         </div>
         <div class="card">
@@ -41,7 +41,7 @@
                 <h1>In store </h1>
             </div>
             <div class="card-content">
-                not yet implemented
+                No Product yet
             </div>
         </div>
         <div class="card">
@@ -49,7 +49,7 @@
                 <h1>Customer Care </h1>
             </div>
             <div class="card-content">
-                not New Message
+                No New Message
             </div>
         </div>
     </div>
